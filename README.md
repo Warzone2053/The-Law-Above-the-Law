@@ -26,10 +26,7 @@ The analysis in these memorandums is built upon several foundational convictions
 
 This is a living project. New memorandums will be added as they are completed.
 
-*   **Memorandum 01: [The Myth of Neutrality: Secularism as a Competing Faith](memorandums/01-the-myth-of-neutrality.md)** (Forthcoming)
-*   **Memorandum 02: [On Common Grace: The Tool for Faithful Engagement](memorandums/02-on-common-grace.md)** (Forthcoming)
-*   **Memorandum 03: [The Art of Principled Persuasion: Translating General Equity](memorandums/03-principled-persuasion.md)** (Forthcoming)
-*   **Memorandum 04: [The Family as an Embassy of the Kingdom](memorandums/04-the-family-as-embassy.md)** (Forthcoming)
+
 
 ---
 
