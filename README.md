@@ -54,10 +54,9 @@ The writings in this collection are organized into several categories based on t
 
 This is a living project. New writings will be added as they are completed.
 
-*(Example of how the content will be structured)*
-
-*   **Pillar I:** [The Sovereignty of God Over All Authority](./pillars/01-sovereignty-of-god.md)
-*   **Discourse I:** [On the General Equity of Biblical Law](./discourses/01-on-general-equity.md)
+*   **Pillar I:** [The Sovereignty of God Over All Authority](./writings/pillars/01-Sovereignty-of-God.md)
+*   **Pillar II:** [The Authority of Scripture as the Ultimate Standard for Justice](./writings/pillars/02-authority-of-scripture.md)
+*   **Discourse I:** [On the General Equity of Biblical Law](./writings/discourses/01-On-General-Equity.md)
 *   **Brief I:** [An Appeal for the Protection of Conscience](./briefs/01-appeal-for-conscience.md)
 
 ---
